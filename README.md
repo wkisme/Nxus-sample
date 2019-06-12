@@ -11,4 +11,15 @@ You can find how to deploy a nxos with the following url:
     
 And about the nxos's rest-api information, look this website
     https://developer.cisco.com/site/cisco-nexus-nx-api-references/
+    
+************************************************************************************
+Now, i'll talk about the files that i upload.
+
+The HelloWord directory is a Django project, which can commit information to front end.
+My main work is in the HelloWord/HelloWord/view.py where you can see how i user rest-api to get information and send it to the front end. 
+There is a function called readcpu which will read data from mysql database and send it to the front end.
+
+The 
+
+
 
