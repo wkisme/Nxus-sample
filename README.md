@@ -21,6 +21,7 @@ There is a function called readcpu which will read data from mysql database and 
 
 The nxos_cpuoccupy.ipynb in master branch is to get cpu-occupied information and memory-occupied information, which will get information per five seconds and store them into mysql database.
 
+The Dump* directory is my database's export file.
 
 
 
