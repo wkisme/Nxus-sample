@@ -19,7 +19,9 @@ The HelloWord directory is a Django project, which can commit information to fro
 My main work is in the HelloWord/HelloWord/view.py where you can see how i user rest-api to get information and send it to the front end. 
 There is a function called readcpu which will read data from mysql database and send it to the front end.
 
-The 
+The nxos_cpuoccupy.ipynb in master branch is to get cpu-occupied information and memory-occupied information, which will get information per five seconds and store them into mysql database.
+
+
 
 
 
