@@ -23,6 +23,8 @@ The nxos_cpuoccupy.ipynb in master branch is to get cpu-occupied information and
 
 The Dump* directory is my database's export file.
 
+Some bugs still not be corrected here, you can find a more completed version in the version 2.0 brach.
+
 
 
 
